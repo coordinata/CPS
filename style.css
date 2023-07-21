@@ -194,7 +194,7 @@ h1 {
   display: inline-block;
   width: 18px;
   height: 28px;
-  background-image: url("../img/expand.svg");
+  background-image: url("./img/expand.svg");
   margin-left: 24px;
   margin-right: 16px;
   margin-right: 16px;
@@ -331,7 +331,7 @@ h1 {
     display: inline-block;
     width: 40px;
     height: 40px;
-    background-image: url("../img/repair.svg");
+    background-image: url("./img/repair.svg");
     background-repeat: no-repeat;
     margin-right: 32px;
     vertical-align: middle;
@@ -343,7 +343,7 @@ h1 {
     display: inline-block;
     width: 40px;
     height: 40px;
-    background-image: url("../img/checkstatus.svg");
+    background-image: url("./img/checkstatus.svg");
     background-repeat: no-repeat;
     vertical-align: middle;
     margin-left: 8px;
